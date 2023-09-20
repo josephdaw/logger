@@ -1,4 +1,4 @@
-# HTTP wrapper
+# Logger
 [![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/logger
 )](https://www.npmjs.com/package/@josephdaw/logger)
 ![GitHub](https://img.shields.io/github/license/josephdaw/logger)
