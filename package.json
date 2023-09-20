@@ -19,5 +19,8 @@
   "homepage": "https://github.com/josephdaw/logger#readme",
   "dependencies": {
     "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
