@@ -1,7 +1,7 @@
 {
   "name": "@josephdaw/logger",
   "version": "1.0.2",
-  "description": "",
+  "description": "A basic logger for Node.js applications.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
