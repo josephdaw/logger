@@ -1,5 +1,5 @@
 {
-  "name": "@josephdaw/[repo]",
+  "name": "@josephdaw/logger",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/josephdaw/[repo].git"
+    "url": "git+ssh://git@github.com/josephdaw/logger.git"
   },
   "keywords": [
 
@@ -16,7 +16,7 @@
   "author": "Joseph Daw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josephdaw/[repo]/issues"
+    "url": "https://github.com/josephdaw/logger/issues"
   },
-  "homepage": "https://github.com/josephdaw/[repo]#readme"
+  "homepage": "https://github.com/josephdaw/logger#readme"
 }
