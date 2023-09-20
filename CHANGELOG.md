@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/josephdaw/logger/compare/v1.0.1...v1.0.2) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Readme:** updating discription ([a8aecd0](https://github.com/josephdaw/logger/commit/a8aecd026b0ecf4e1ec20d56386ce9b7cef84878))
+* **Readme:** updating npm badge ([13616ee](https://github.com/josephdaw/logger/commit/13616ee40192f00f2b8b4f3fafa60e34032b78e1))
+
 ## [1.0.1](https://github.com/josephdaw/logger/compare/v1.0.0...v1.0.1) (2023-09-20)
 
 
