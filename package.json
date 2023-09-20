@@ -1,6 +1,6 @@
 {
   "name": "@josephdaw/logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A basic logger for Node.js applications.",
   "main": "index.js",
   "scripts": {

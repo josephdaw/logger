@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/josephdaw/logger/compare/v1.0.3...v1.0.4) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Readme:** adding npm logo to badge ([52b1db9](https://github.com/josephdaw/logger/commit/52b1db99f0a3352394234a536d6f385d3c591ba8))
+
 ## [1.0.3](https://github.com/josephdaw/logger/compare/v1.0.2...v1.0.3) (2023-09-20)
 
 
