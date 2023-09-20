@@ -1,5 +1,5 @@
 # Logger
-[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/logger
+[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/logger?logo=npm
 )](https://www.npmjs.com/package/@josephdaw/logger)
 ![GitHub](https://img.shields.io/github/license/josephdaw/logger)
 [![Node.js CI](https://github.com/josephdaw/logger/actions/workflows/node-testing.yml/badge.svg)](https://github.com/josephdaw/logger/actions/workflows/node-testing.yml)
