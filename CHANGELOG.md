@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/josephdaw/logger/compare/v1.0.2...v1.0.3) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Description:** adding description ([d5d8d68](https://github.com/josephdaw/logger/commit/d5d8d68cfa99850dd1cbb1c427628e1d72eb17b6))
+* **Readme:** fixing title ([eac3763](https://github.com/josephdaw/logger/commit/eac3763436b744970427e54dcfdbed4e54a2481e))
+
 ## [1.0.2](https://github.com/josephdaw/logger/compare/v1.0.1...v1.0.2) (2023-09-20)
 
 
