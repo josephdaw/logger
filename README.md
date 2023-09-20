@@ -16,7 +16,8 @@
 
 
 ## Description
-
+A basic logger for Node.js applications. It has three logger transports set up. The first outputs to the console, the second outputs only errors to a file, and the third outputs down to the info level to a log file. 
+The level that the console transport logs to is set by the `LOG_LEVEL` environment variable. If no level is set, it will default to 'info'.
 
 ## Installation
 ### Using npm
