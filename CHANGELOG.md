@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/josephdaw/logger/compare/v1.0.0...v1.0.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* **Tests:** adding dummy test to my CI/CD pipeline work ([bfdd437](https://github.com/josephdaw/logger/commit/bfdd437a823cf1152bfaefffce8756de0ee0e4f6))
+
 ## 1.0.0 (2023-09-20)
 
 
