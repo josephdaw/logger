@@ -1,5 +1,6 @@
 # HTTP wrapper
-[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/logger?logo=npm)](https://www.npmjs.com/package/@josephdaw/logger)
+[![npm (scoped)](https://img.shields.io/npm/v/%40josephdaw/logger
+)](https://www.npmjs.com/package/@josephdaw/logger)
 ![GitHub](https://img.shields.io/github/license/josephdaw/logger)
 [![Node.js CI](https://github.com/josephdaw/logger/actions/workflows/node-testing.yml/badge.svg)](https://github.com/josephdaw/logger/actions/workflows/node-testing.yml)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
